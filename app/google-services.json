@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313133643071",
+    "firebase_url": "https://scgrab-1e7c2.firebaseio.com",
+    "project_id": "scgrab-1e7c2",
+    "storage_bucket": "scgrab-1e7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313133643071:android:cbf4ebe74c7d67d9",
+        "android_client_info": {
+          "package_name": "com.app.screengrab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313133643071-7sssfsi1sad31dq2446bkqhh15fo85k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.screengrab",
+            "certificate_hash": "b4a90dbd1ea3433b3cb9c21d96c51925479ebdbe"
+          }
+        },
+        {
+          "client_id": "313133643071-t9graj637474ao77kcdfo1qiibgag7j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZrAmsffFF7kehMwScoml0og46j6osPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313133643071-t9graj637474ao77kcdfo1qiibgag7j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
